@@ -1,3 +1,6 @@
+## If the project complains about legacy mode run this command
+### `export NODE_OPTIONS=--openssl-legacy-provider`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
